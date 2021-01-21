@@ -1,0 +1,10 @@
+D:\Visual Studio workspace\ArduinoCommunication\bin\Debug\ArduinoCommunication.exe.config
+D:\Visual Studio workspace\ArduinoCommunication\bin\Debug\ArduinoCommunication.exe
+D:\Visual Studio workspace\ArduinoCommunication\bin\Debug\ArduinoCommunication.pdb
+D:\Visual Studio workspace\ArduinoCommunication\obj\Debug\ArduinoCommunication.csprojAssemblyReference.cache
+D:\Visual Studio workspace\ArduinoCommunication\obj\Debug\ArduinoCommunication.Form1.resources
+D:\Visual Studio workspace\ArduinoCommunication\obj\Debug\ArduinoCommunication.Properties.Resources.resources
+D:\Visual Studio workspace\ArduinoCommunication\obj\Debug\ArduinoCommunication.csproj.GenerateResource.cache
+D:\Visual Studio workspace\ArduinoCommunication\obj\Debug\ArduinoCommunication.csproj.CoreCompileInputs.cache
+D:\Visual Studio workspace\ArduinoCommunication\obj\Debug\ArduinoCommunication.exe
+D:\Visual Studio workspace\ArduinoCommunication\obj\Debug\ArduinoCommunication.pdb
